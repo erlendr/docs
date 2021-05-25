@@ -10,7 +10,7 @@
     "autoprefixer-loader": "^2.0.0",
     "coffee-loader": "~0.7.2",
     "coffee-script": "^1.10.0",
-    "css-loader": "~0.15.6",
+    "css-loader": "~1.0.0",
     "extract-text-webpack-plugin": "^0.8.2",
     "file-loader": "~0.8.4",
     "grunt": "~0.4.2",
